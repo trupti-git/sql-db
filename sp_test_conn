@@ -1,0 +1,4 @@
+CREATE OR REPLACE PROCEDURE SP_TEST_CONN AS 
+BEGIN
+  dbms_output.put_line('hello');
+END SP_TEST_CONN;
