@@ -1,6 +1,6 @@
 create or replace procedure sp_test is
 begin
-----------hi hello friends
+----------hi hello love friends
 ----------output details
 end;
 /
