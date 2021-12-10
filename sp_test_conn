@@ -2,6 +2,6 @@ CREATE OR REPLACE PROCEDURE SP_TEST_CONN AS
 BEGIN
   dbms_output.put_line('hello');
   dbms_output.put_line('hi');
-  dbms_output.put_line('hi');
+  dbms_output.put_line('hi my dear');
   dbms_output.put_line('hi');
 END SP_TEST_CONN;
