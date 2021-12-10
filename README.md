@@ -1,6 +1,7 @@
 # sql-db
 
 sajghd jhasgf 
-asf kusahfjk h
-jghsfjgsfkjs
-hi
+
+asf kusahfjk 
+
+how r u
